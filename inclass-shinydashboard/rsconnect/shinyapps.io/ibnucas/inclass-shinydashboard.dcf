@@ -1,0 +1,12 @@
+name: inclass-shinydashboard
+title: inclass-shinydashboard
+username:
+account: ibnucas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3896715
+bundleId: 4420357
+url: https://ibnucas.shinyapps.io/inclass-shinydashboard/
+when: 1617281311.89016
+asMultiple: FALSE
+asStatic: FALSE
